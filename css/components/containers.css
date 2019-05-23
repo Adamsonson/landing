@@ -1,0 +1,59 @@
+.banner-container {
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.banner-container h1 {
+  color: beige;
+  background: #19480D;
+  background:rgba(0,0,0,0.7);
+}
+
+.banner-container p {
+  color: beige;
+  background: #19480D;
+  background:rgba(0,0,0,0.7);
+}
+
+.banner-container h1{
+  font-weight: 2em;
+}
+
+.container-cards {
+  background: #21590C;
+  background-position: center;
+  width: 900px;
+  margin: auto;
+}
+
+.container-cards h2 {
+  text-align: center;
+}
+
+.footer {
+  background: #2C2B2B;
+  margin: auto;
+  padding: 30px;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-icons i {
+  font-size: 32px;
+  color: #53DE88;
+  padding: 5px;
+}
+
+.footer p {
+  text-align: center;
+  color: grey;
+}
+
+.footer >p > i {
+  color: red;
+}

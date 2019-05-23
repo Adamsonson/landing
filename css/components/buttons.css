@@ -1,0 +1,18 @@
+.btn-yours {
+  color: white;
+  padding: 0.75em 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 3px solid orange;
+  display: inline-block;
+  margin: 20px;
+  background:rgba(0,0,0,0.6);
+}
+
+.btn-yours:hover {
+  background-color: #F6B93B;
+  border-color: #F6B93B;
+  color: white;
+  transition: all .4s ease 0s;
+}

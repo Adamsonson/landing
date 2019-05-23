@@ -1,0 +1,9 @@
+.banner {
+  background-image: url(../../images/backgroun3.gif);
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  display: flex;
+}
+
+
